@@ -1,5 +1,6 @@
-Hi, I’m @CodeAnarchist
-java and c# enjoyer
+Hi, I’m @CodeAnarchist.
+
+Java and c# enjoyer
 
 
 
