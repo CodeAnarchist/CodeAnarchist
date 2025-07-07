@@ -1,13 +1,4 @@
-Hi, I’m @CodeAnarchist.
-
-Java and c# enjoyer
-
-
-
-
-Batch, C, and C++ are also okay
-
-The day Python adds the semicolon, I will begin to appreciate it
-
-
-
+Hi, I'm @CodeAnarchist
+Mostly into Java and C#
+Comfortable with C/C++ too
+Still waiting for Python to add semicolons
